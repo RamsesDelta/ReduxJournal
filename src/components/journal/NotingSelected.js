@@ -2,7 +2,7 @@ import React from 'react'
 
 export const NotingSelected = () => {
     return (
-        <div className="nothing__main-conten">
+        <div className="nothing__main-content">
             <p>slect someting
                 <br/>
                 por creardsdsd
